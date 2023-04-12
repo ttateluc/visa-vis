@@ -1,4 +1,5 @@
-# Linkedin Connections Insights
+# Linkedin Connections
+![DALL·E 2023-04-12 16 13 54 - linkedin visualizer, digital art](https://user-images.githubusercontent.com/97220909/231603315-4399e0c6-8182-438a-93b5-b112b56a9917.png)
 
 
 ## Features
