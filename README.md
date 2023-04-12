@@ -1,4 +1,4 @@
-# Linkedin Connections Insights 🪄
+# Linkedin Connections Insights
 
 
 ## Features
